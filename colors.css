@@ -1,0 +1,8 @@
+/* the colors in css are defined in the file colors.css. */
+/* the colors are defined in the following order: */
+/* 1. the color name */
+/* 2. the hex code  - this is the most used way to define colors in css examples: #fff, #000, #f4f4f4, #ccc */
+/* 3. the rgb code - this is the second most used way to define colors in css examples: rgb(255, 255, 255), rgb(0, 0, 0), rgb(244, 244, 244), rgb(204, 204, 204)  */
+/* 4. the hsl code - this is the third most used way to define colors in css examples: hsl(0, 100%, 100%), hsl(0, 0%, 0%), hsl(0, 0%, 96%), hsl(0, 0%, 80%)  */
+/* 5. the hsla code - this is the fourth most used way to define colors in css examples: hsla(0, 100%, 100%, 1), hsla(0, 0%, 0%, 1), hsla(0, 0%, 96%, 1), hsla(0, 0%, 80%, 1)  */
+/* 6. the color name with the opacity - this is the least used way to define colors in css examples: red, blue, green, yellow   */
