@@ -71,5 +71,12 @@ h2{
     margin-bottom: 1rem;
     background-color: yellow;
 }
+/* all elments with class p will have a red background   */
+.p {
+    background-color: red;
+}
+
+
+
 
 
